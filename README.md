@@ -1,2 +1,2 @@
 Drum tool 
-Special thannks to Angela Yu!
+(Special thanks to Angela Yu!)
